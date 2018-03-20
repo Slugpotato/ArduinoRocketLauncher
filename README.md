@@ -6,7 +6,8 @@ Arduino based rocket launcher made for the 2017 C3 Expo.
 Summary:
 ####################################
 
-In depth explanation: 
+In depth explanation:
+http://designingafuture.com/projects/arduinoRocket
 
 
 TL;DR
